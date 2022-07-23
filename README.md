@@ -1,5 +1,5 @@
-Congresso: é um sistema básico de votação com base em um projeto de lei a ser votado.
- Nesse código utilizei:
+* Congresso: é um sistema básico de votação com base em um projeto de lei a ser votado.
+ * Nesse código utilizei:
   * métodos Get e Set;
   * as classes ArrayList e Scanner;
   * vetores;
